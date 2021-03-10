@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781927946418",
+    "firebase_url": "https://prueba1-322ad.firebaseio.com",
+    "project_id": "prueba1-322ad",
+    "storage_bucket": "prueba1-322ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781927946418:android:bc5ef11550bda4443a91ab",
+        "android_client_info": {
+          "package_name": "com.quintus.labs.grocerystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781927946418-9q24b862f0kua6l8ncjoqnajr13a1hvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGd5dMfR__dL0wfLHtF0LFTfrtP9lHcfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781927946418-9q24b862f0kua6l8ncjoqnajr13a1hvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
